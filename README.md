@@ -14,9 +14,9 @@ Please make sure you have these packages installed: **qrnn**, **texmex**, **isme
 The **FitCEV.R** contains the main functions to fit a CEV model. The `quinn_samp` function the specific implementation is largely based on the **texmex** package [[3]](#3). The `mex`
 function estimates the .
 
-<! -- --> The **utils.R** contains helper functions fot implementing the NUTS.
+<! -- The **utils.R** contains helper functions fot implementing the NUTS. -->
 
-<! -- -->  The **ALEPlot_qt.R** can be used to estimate the quantile marginal effects of QUINN
+<! -- The **ALEPlot_qt.R** can be used to estimate the quantile marginal effects of QUINN -->
 
 The **NWexample.R** provides an example of using CEV and MCQRNN. 
 
