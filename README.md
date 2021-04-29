@@ -34,7 +34,6 @@ Cannon, A. J. (2018). Non-crossing nonlinear regression quantiles by monotone co
 Southworth, H., Heffernan, J. E., Southworth, M. H., & Suggests, M. A. S. S. (2020). Package ‘texmex’.
 
 <a id="4">[4]</a> 
-
 Fyfe, J. C., Derksen, C., Mudryk, L., Flato, G. M., Santer, B. D., Swart, N. C., ... & Jiao, Y. (2017). Large near-term projected snowpack loss over the western United States. Nature communications, 8(1), 1-7.
 
 
